@@ -17,4 +17,6 @@ cosas a agregar:
   
   *modos de juego: pense en agregar un modo de juego donde haya demasiadas frutas, pero el villano tenga movimientos alocados (o que hayan 2 o + villanos 👀)
   
+  *conexion a una base de datos local: que al realizar la ejecucion pida un nombre, y si este usuario rompe el high score, al cerrar el programa y ejecutarlo de nuevo     aparezca el record del jugador y que no arranque de 0 nuevamente 
+  
   
